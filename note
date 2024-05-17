@@ -1,0 +1,13 @@
+image magnifier // use {{-- image --}}
+<!-- <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/viewerjs/1.11.6/viewer.min.css"
+/> -->
+{{-- image js --}}
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/viewerjs/1.11.6/viewer.min.js"></script> -->
+
+{{-- Nocatification --}}
+php artisan notifications:table
+php artisan migrate
+php artisan make:notification MyFirstNotification
+ldng khiq jvkq kosf
