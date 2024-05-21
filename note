@@ -10,4 +10,4 @@ image magnifier // use {{-- image --}}
 php artisan notifications:table
 php artisan migrate
 php artisan make:notification MyFirstNotification
-ldng khiq jvkq kosf
+
